@@ -7,7 +7,7 @@ A good array is an array where the number of different integers in that array is
 For example, ```[1,2,3,1,2]``` has ```3``` different integers: ```1```, ```2```, and ```3```.
 A subarray is a contiguous part of an array.
 
-### Coemmentary
+### Commentary
 
  - I had the basic idea down for so long, just trying to find where to adjust the starter pointer was killing me lol
 
