@@ -13,7 +13,7 @@ A subarray is a contiguous part of an array.
 
 ### Commentary
 
- - This was a similar problem to [992](0992) in that 3 pointers are need to be used to min and max windows for valid subarrays. I got messed up on the fine details again.
+ - This was a similar problem to [992](../0992) in that 3 pointers are need to be used to min and max windows for valid subarrays. I got messed up on the fine details again.
 
 ```cpp
 class Solution {
